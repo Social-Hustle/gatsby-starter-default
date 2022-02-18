@@ -6,6 +6,7 @@
   "author": "rmiller61",
   "dependencies": {
     "babel-plugin-styled-components": "^1.13.3",
+    "browser-monads": "^1.0.0",
     "gatsby": "4.5.4",
     "gatsby-plugin-gdpr-cookies": "https://github.com/Social-Hustle/gatsby-plugin-gdpr-cookies.git",
     "gatsby-plugin-image": "^2.0.0",
@@ -28,11 +29,11 @@
     "react-helmet": "^6.1.0",
     "react-hook-form": "^7.21.2",
     "styled-components": "^5.3.3"
-},
-"devDependencies": {
+  },
+  "devDependencies": {
     "@lhci/cli": "^0.8.2",
     "prettier": "2.5.1"
-},
+  },
   "keywords": [
     "gatsby"
   ],
